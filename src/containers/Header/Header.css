@@ -1,0 +1,14 @@
+.osten{
+    width:125px;
+    justify-content:space-between;
+    cursor: pointer;
+    outline: none;
+}
+.items:hover{
+    color: rgb(241, 159, 50);
+}
+.stn {
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
